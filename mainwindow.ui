@@ -37,9 +37,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                            </string>
         </property>
        </widget>
       </item>
@@ -54,9 +52,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -71,9 +67,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -88,9 +82,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -105,9 +97,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -122,9 +112,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -139,9 +127,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -156,9 +142,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -173,9 +157,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -190,9 +172,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -207,9 +187,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -224,9 +202,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -241,9 +217,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -258,9 +232,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -275,9 +247,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -292,9 +262,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -309,9 +277,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -326,9 +292,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -343,9 +307,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -360,9 +322,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -377,9 +337,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -394,9 +352,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -411,9 +367,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -428,9 +382,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -445,9 +397,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -462,9 +412,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -479,9 +427,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -496,9 +442,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -513,9 +457,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -530,9 +472,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -547,9 +487,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -564,9 +502,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -581,9 +517,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -598,9 +532,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -615,9 +547,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -632,9 +562,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -649,9 +577,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -666,9 +592,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -683,9 +607,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -700,9 +622,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -717,9 +637,7 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
@@ -734,16 +652,32 @@
                                 max-width: 50px;  /* Maximum width to maintain the circle shape */
                                 max-height: 50px;  /* Maximum height to maintain the circle shape */
                             }
-                            QPushButton:hover {
-                                background-color: #dddddd;  /* Lighter color on hover */
-                            }</string>
+                             </string>
         </property>
        </widget>
       </item>
      </layout>
     </item>
+    <item row="0" column="4">
+     <widget class="QPushButton" name="playVsAIButton">
+      <property name="text">
+       <string>Jouer contre une IA</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>37</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
  <connections/>
