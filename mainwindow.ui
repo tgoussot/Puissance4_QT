@@ -11,20 +11,739 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Puissance 4</string>
   </property>
-  <widget class="QWidget" name="centralwidget"/>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>800</width>
-     <height>37</height>
-    </rect>
-   </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <property name="spacing">
+     <number>5</number>
+    </property>
+    <item row="1" column="1" rowspan="6" colspan="7">
+     <layout class="QGridLayout" name="gridLayout">
+      <property name="margin" stdset="0">
+       <number>10</number>
+      </property>
+      <property name="spacing">
+       <number>10</number>
+      </property>
+      <item row="0" column="0">
+       <widget class="QPushButton" name="pushButton_0_0">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QPushButton" name="pushButton_0_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QPushButton" name="pushButton_0_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QPushButton" name="pushButton_0_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="QPushButton" name="pushButton_0_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="QPushButton" name="pushButton_0_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="6">
+       <widget class="QPushButton" name="pushButton_0_6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QPushButton" name="pushButton_1_0">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QPushButton" name="pushButton_1_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="QPushButton" name="pushButton_1_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="3">
+       <widget class="QPushButton" name="pushButton_1_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="4">
+       <widget class="QPushButton" name="pushButton_1_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="5">
+       <widget class="QPushButton" name="pushButton_1_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="6">
+       <widget class="QPushButton" name="pushButton_1_6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QPushButton" name="pushButton_2_0">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QPushButton" name="pushButton_2_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="2">
+       <widget class="QPushButton" name="pushButton_2_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="3">
+       <widget class="QPushButton" name="pushButton_2_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="4">
+       <widget class="QPushButton" name="pushButton_2_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="5">
+       <widget class="QPushButton" name="pushButton_2_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="6">
+       <widget class="QPushButton" name="pushButton_2_6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QPushButton" name="pushButton_3_0">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QPushButton" name="pushButton_3_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="2">
+       <widget class="QPushButton" name="pushButton_3_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="3">
+       <widget class="QPushButton" name="pushButton_3_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="4">
+       <widget class="QPushButton" name="pushButton_3_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="5">
+       <widget class="QPushButton" name="pushButton_3_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="6">
+       <widget class="QPushButton" name="pushButton_3_6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QPushButton" name="pushButton_4_0">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QPushButton" name="pushButton_4_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="2">
+       <widget class="QPushButton" name="pushButton_4_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="3">
+       <widget class="QPushButton" name="pushButton_4_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="4">
+       <widget class="QPushButton" name="pushButton_4_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="5">
+       <widget class="QPushButton" name="pushButton_4_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="6">
+       <widget class="QPushButton" name="pushButton_4_6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="0">
+       <widget class="QPushButton" name="pushButton_5_0">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="1">
+       <widget class="QPushButton" name="pushButton_5_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="2">
+       <widget class="QPushButton" name="pushButton_5_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="3">
+       <widget class="QPushButton" name="pushButton_5_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="4">
+       <widget class="QPushButton" name="pushButton_5_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="5">
+       <widget class="QPushButton" name="pushButton_5_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="6">
+       <widget class="QPushButton" name="pushButton_5_6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+                                background-color: #ffffff;  /* White color for the button background */
+                                border-radius: 25px;  /* Circular buttons */
+                                min-width: 50px;  /* Minimum width */
+                                min-height: 50px;  /* Minimum height */
+                                max-width: 50px;  /* Maximum width to maintain the circle shape */
+                                max-height: 50px;  /* Maximum height to maintain the circle shape */
+                            }
+                            QPushButton:hover {
+                                background-color: #dddddd;  /* Lighter color on hover */
+                            }</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
   </widget>
-  <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
  <connections/>

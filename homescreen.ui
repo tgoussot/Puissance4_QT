@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HomeScreen</class>
+ <widget class="QWidget" name="HomeScreen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Puissance 4 - Commencez à Jouer !</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout" stretch="0,1,0">
+    <item>
+      <spacer name="verticalSpacerTop">
+        <property name="orientation">
+          <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeType">
+          <enum>QSizePolicy::Expanding</enum>
+        </property>
+      </spacer>
+    </item>
+    <item alignment="Qt::AlignCenter">
+     <widget class="QPushButton" name="pushButton">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>14</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>Commencer une partie !</string>
+      </property>
+      <property name="styleSheet">
+       <string>
+        QPushButton {
+            border: 1px solid #555;
+            border-radius: 15px;
+            background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                              stop:0 #f6d365, stop:1 #fda085);
+            padding: 10px 20px;
+            color: #2c3e50;
+        }
+        QPushButton:hover {
+            background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                              stop:0 #fda085, stop:1 #f6d365);
+        }
+        QPushButton:pressed {
+            background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                              stop:0 #e0a64b, stop:1 #f48942);
+            padding-left: 15px;
+            padding-top: 5px;
+        }
+       </string>
+      </property>
+     </widget>
+    </item>
+    <item>
+      <spacer name="verticalSpacerBottom">
+        <property name="orientation">
+          <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeType">
+          <enum>QSizePolicy::Expanding</enum>
+        </property>
+      </spacer>
+    </item>
+  </layout>
+  <property name="styleSheet">
+   <string>
+    QWidget {
+        background-color: #34495e;
+    }
+   </string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
